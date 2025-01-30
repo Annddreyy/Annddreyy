@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annddreyy&theme=github-compact)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annddreyy&theme=github-compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annddreyy\&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annddreyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annddreyy\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annddreyy&layout=compact)
