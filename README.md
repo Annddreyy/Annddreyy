@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annddreyy&theme=github-compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annddreyy\&rank_icon=github\&show_icons=true\&title_color=blue\&icon_color=blue\&text_color=9f9f9f\&bg_color=151515\&ring_color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annddreyy&layout=compact)
