@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red)
+![image](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+![image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![image](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue)
+![image](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=red)
+![image](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![image](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=orange)
+![image](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annddreyy&theme=github-compact)
 
