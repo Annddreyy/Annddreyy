@@ -1,5 +1,24 @@
-## Hi there, I'm Puchkov Andrey 👋
+# Привет 👋
+
 ![](https://komarev.com/ghpvc/?username=annddreyy&color=dc143c)
+
+Меня зовут __Пучков Андрей__, я занимаюсь разработкой на _JavaScript / React_. Люблю создавать удобные интерфейсы, писать чистый код и учиться новому.
+
+## 🛠 Технологии
+
+- 💻 Frontend: HTML, CSS, JS, React, Redux, SCSS, TypeScript
+- ⚙️ Backend: Flask
+- 🧪 Тестирование: Jest, React Testing Library
+- 📦 Инструменты: Git, Webpack
+
+## 📫 Связаться со мной
+
+- Email: andreymail22112006@gmail.com 
+- Telegram: [@APvDev](https://t.me/@APvDev)
+
+---
+
+> 💡 Постоянно развиваюсь и открыт к новым проектам и сотрудничеству.
 
 <!--
 **Annddreyy/Annddreyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
