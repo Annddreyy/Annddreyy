@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![image](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue)
 ![image](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=red)
+![image](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue)
+![image](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
 ![image](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
 ![image](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=orange)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
