@@ -6,10 +6,10 @@
 
 ## 🛠 Технологии
 
-- 💻 Frontend: HTML, CSS, JS, React, Redux, SCSS, TypeScript
+- 💻 Frontend: HTML, CSS, JS, React, TypeScript, Redux, Redux Toolkit, SCSS, CSS Modules, StyledComponents
 - ⚙️ Backend: Flask
 - 🧪 Тестирование: Jest
-- 📦 Инструменты: Git, Webpack
+- 📦 Инструменты: Git, Webpack, DOCKER
 
 ## 📫 Связаться со мной
 
