@@ -9,7 +9,7 @@
 - 💻 Frontend: HTML, CSS, JS, React, TypeScript, Redux, Redux Toolkit, SCSS, CSS Modules, StyledComponents
 - ⚙️ Backend: Flask
 - 🧪 Тестирование: Jest
-- 📦 Инструменты: Git, Webpack, DOCKER
+- 📦 Инструменты: Git, Webpack, Docker
 
 ## 📫 Связаться со мной
 
